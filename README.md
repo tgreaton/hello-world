@@ -1,2 +1,6 @@
 # hello-world
-A place to share and post my Data Visualization projects.
+==============
+
+Hello
+
+I am a computer science major.
